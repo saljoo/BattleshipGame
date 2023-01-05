@@ -1,4 +1,4 @@
-# Battleship
+# BattleshipGame
 
 School project in python programming course.
 Did the project with a partner and our goal was to create a battleship game that can be played against computer.
