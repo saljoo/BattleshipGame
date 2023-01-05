@@ -1,0 +1,46 @@
+
+
+Olet laivastosi komentaja ja vihollinen on sijoittanut laivastonsa tunnetulle alueelle.
+Tehtävänäsi on sijoittaa omat laivasi strategisesti ja upottaa jokainen vihollislaiva.
+Myös vihollinen yrittää tuhota laivojasi, joten toimi nopeasti!
+
+
+SÄÄNNÖT:
+
+Peliä pelataan kahdella pelialueella joka kumpikin on jaettu 10*10 ruutuun.
+Vaakariviin merkitään kirjaimet A-J ja pystyriviin numerot 1-10.
+Peli aloitetaan sijoittamalla oikeanpuoleiseen ruudukkoon omat laivat jotka ovat:
+
+1 lentotukialus, kooltaan 5 ruutua pitkä
+1 taistelulaiva, kooltaan 4 ruutua pitkä
+2 risteilijää, kooltaan 3 ruutua pitkä
+1 hävittäjä, kooltaan 2 ruutua pitkä
+1 sukellusvene, kooltaan 1 ruutu
+
+Laivat eivät saa koskettaa toisiaan kuin kulmittain, eivätkä ne myöskään voi olla vinottain.
+Kun pelaaja on asettanut laivansa peli voi alkaa. Ennen tätä arvotaan kuitenkin aloittaja.
+Vuorotellen pelaaja ja kone ampuvat. Peli ilmoittaa osumat ja hudit.
+
+Ruudukon merkinnät tarkoittavat seuraavaa:
+
+• tarkoittaa tyhjää ruutua
+X tarkoittaa laivan ruutua, johon ei ole osunut
+¤ tarkoittaa laivan ruutua, johon on osunut
+⚬ tarkoittaa ruutua, johon on ammuttu ohilaukaus
+
+Kun laivan jokaiseen ruutuun on osunut ammus, laiva uppoaa.
+Silloin peli ilmoittaa laivan uponneen.
+
+Pelin voittaa pelaaja, joka ensimmäisenä upottaa vihollisen koko laivaston.
+
+Onnea peliin!
+
+
+TALLENTAMINEN:
+
+Tallentaaksesi pelin, kirjoita ampumiskoordinaatinsyöttökenttään "tallenna".
+Voit jatkaa tallennettua peliä valitsemalla päävalikossa "Jatka vanhaa peliä".
+Tallennettuja pelejä voi olla maksimissaan kolme kappaletta kerrallaan.
+Jos tallennuksia on kolme, vanhin tallennus poistetaan, kun tehdään uusi tallennus.
+Jos haluat poistua päävalikkoon tallentamatta peliä, kirjoita
+ampumiskoordinaatinsyöttökenttään "poistu".
